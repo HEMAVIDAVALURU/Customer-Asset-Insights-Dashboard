@@ -1,12 +1,12 @@
-📊 Customer & Asset Insights Dashboard (Excel)
+# **📊 Customer & Asset Insights Dashboard (Excel)**
 
 
-📌 Project Overview
+## **📌 Project Overview**
 
 The Customer & Asset Insights Dashboard is an interactive Excel dashboard designed to analyze customer demographics, purchase behavior, and company asset distribution. Using structured data, pivot tables, and visually formatted charts, this dashboard provides valuable insights for business decision-making and operational efficiency.
 
 
-🔍 Key Features
+## **🔍 Key Features**
 
 Customer demographics overview (age, gender, location, etc.)
 
@@ -22,7 +22,7 @@ Fully formatted pivot tables and charts
 
 
 
-🛠 Tools & Techniques Used
+## **🛠 Tools & Techniques Used**
 
 Microsoft Excel
 
@@ -36,7 +36,7 @@ Dashboard Layout & Visualization Design
 
 
 
-📁 Project Structure
+## **📁 Project Structure**
 📂 Customer-Asset-Insights-Dashboard
 │── Data Sheet
 │── Pivot Tables
@@ -46,7 +46,7 @@ Dashboard Layout & Visualization Design
 
 
 
-🎯 Key Insights
+## **🎯 Key Insights**
 
 Identifies high-value assets and their distribution
 
@@ -58,6 +58,6 @@ Supports better asset planning and customer analysis
 
 
 
-📬 Contact
+## **📬 Contact**
 
 Feel free to reach out if you want to collaborate or discuss data projects!
