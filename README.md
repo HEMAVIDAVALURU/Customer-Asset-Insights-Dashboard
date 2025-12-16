@@ -37,11 +37,13 @@ Dashboard Layout & Visualization Design
 
 
 ## **📁 Project Structure**
+```
 📂 Customer-Asset-Insights-Dashboard
 │── Data Sheet
 │── Pivot Tables
 │── Dashboard Sheet
 │── README.md
+```
 
 
 
